@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-20T23:10:04 IST" name="Suite" finished-at="2021-07-20T23:10:35 IST" duration-ms="31855">
+    <groups>
+    </groups>
+    <test started-at="2021-07-20T23:10:04 IST" name="Test" finished-at="2021-07-20T23:10:35 IST" duration-ms="31855">
+      <class name="com.mavenproj.jenkinsexample.cases.TC001_GoogleHomeScreen">
+        <test-method signature="validateBrowsers()[pri:0, instance:com.mavenproj.jenkinsexample.cases.TC001_GoogleHomeScreen@75329a49]" started-at="2021-07-20T23:10:04 IST" name="validateBrowsers" finished-at="2021-07-20T23:10:35 IST" duration-ms="31542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBrowsers -->
+      </class> <!-- com.mavenproj.jenkinsexample.cases.TC001_GoogleHomeScreen -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
